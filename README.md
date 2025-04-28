@@ -4,4 +4,4 @@
 These cards are powered by https://github.com/anuraghazra/github-readme-stats
 
 ## Count of Pomodoro
-[![](https://pixe.la/v1/users/hatappi/graphs/gomodoro)](https://pixe.la/v1/users/hatappi/graphs/gomodoro.html)
+[![](https://pixe.la/v1/users/hatappi/graphs/gomodoro?transparent=true)](https://pixe.la/v1/users/hatappi/graphs/gomodoro.html?transparent=true)
